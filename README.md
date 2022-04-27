@@ -1,2 +1,2 @@
 # SpringBoot
-This repos is related to spring boot features
+This repo is related to spring boot features
